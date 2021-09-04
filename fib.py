@@ -19,7 +19,7 @@ def fibonacci(n: int) -> None:
         previous = tmp
 
 
-def main():
+def main() -> None:
     prompt_greeting_message()
     fibonacci(NUMBER_OF_FIBONACCI_ELEMENTS)
 
