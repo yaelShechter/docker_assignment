@@ -4,7 +4,7 @@ NUMBER_OF_FIBONACCI_ELEMENTS = 50
 
 
 def prompt_greeting_message() -> None:
-    os.system('toilet -f smblock --filter border:metal "My container is online!"')
+    os.system('toilet -f smblock --filter border:gay "My container is online!"')
 
 
 def fibonacci(n: int) -> None:
